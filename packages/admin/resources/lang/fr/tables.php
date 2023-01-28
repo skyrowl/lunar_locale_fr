@@ -11,7 +11,7 @@ return [
     'headings.phone' => 'Téléphone',
     'headings.total' => 'Total',
     'headings.date' => 'Date',
-    'headings.handle' => 'Handle',
+    'headings.handle' => 'Nom général',
     'headings.zone_type' => 'Type',
     'headings.url' => 'URL',
     'headings.price' => 'Prix',

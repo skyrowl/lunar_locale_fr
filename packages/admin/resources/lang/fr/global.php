@@ -4,7 +4,7 @@ return [
     'firstname' => 'Prénom',
     'lastname' => 'Nom',
     'name' => 'Identifiant',
-    'handle' => 'Gérer',
+    'handle' => 'Nom général',
     'url' => 'URL',
     'version' => 'Version',
     'verified' => 'Verifié',

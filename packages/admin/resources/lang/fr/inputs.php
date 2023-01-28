@@ -5,7 +5,7 @@ return [
     'firstname' => __('adminhub::global.firstname'),
     'lastname' => __('adminhub::global.lastname'),
     'name' => 'Identifiant',
-    'handle' => 'Handle',
+    'handle' => 'Nom général',
     'code' => 'Code',
     'min' => 'Min',
     'max' => 'Max',
